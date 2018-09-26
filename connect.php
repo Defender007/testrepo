@@ -8,5 +8,5 @@ if (!$link) {
 
 echo 'Connected successfully';
 
-
+conect connect 
 ?>
