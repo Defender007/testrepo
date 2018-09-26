@@ -1,15 +1,1 @@
 line  1 textfile 1
-
-line  2  textfile 2
-
-line  3 textfile 3
-
-line  4  textfile 4
-
-line  5 textfile 5
-
-line  6  textfile 6
-
-line  7 textfile 7
-
-line  8  textfile 8
